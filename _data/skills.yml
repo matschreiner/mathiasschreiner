@@ -1,0 +1,11 @@
+- group: "Languages"
+  items: ["Python", "SQL", "Bash", "LaTeX"]
+
+- group: "Machine Learning"
+  items: ["Graph Neural Networks", "Diffusion Models", "Bayesian NNs", "Variational Autoencoders", "CNNs"]
+
+- group: "Science"
+  items: ["Molecular Dynamics", "Computational Chemistry", "DFT", "Statistical Physics"]
+
+- group: "Tools & Infrastructure"
+  items: ["PyTorch", "Docker", "Git", "Linux", "GitHub Actions"]

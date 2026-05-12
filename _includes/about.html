@@ -1,0 +1,26 @@
+<section id="about" class="section section-about">
+  <div class="container">
+    <div class="about-grid">
+      <div class="about-photo">
+        <img src="{{ '/assets/img/avatar.jpg' | relative_url }}" alt="{{ site.author.name }}" />
+      </div>
+      <div class="about-text">
+        <h1 class="about-name">{{ site.author.name }}</h1>
+        <p class="about-tagline">{{ site.description }}</p>
+        <p class="about-bio">
+          Curious scientist with a PhD in Computer Science and Physics, and a solid foundation in
+          research, programming, and software engineering. I apply physics methods and machine learning
+          to solve scientific problems — currently working at the Danish Meteorological Institute (DMI).
+        </p>
+        <div class="about-links">
+          <a href="https://github.com/{{ site.author.github }}" class="btn btn-primary" target="_blank" rel="noopener">
+            GitHub
+          </a>
+          <a href="https://linkedin.com/in/{{ site.author.linkedin }}" class="btn btn-secondary" target="_blank" rel="noopener">
+            LinkedIn
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

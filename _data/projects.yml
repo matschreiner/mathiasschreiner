@@ -1,0 +1,19 @@
+- name: "Implicit Transfer Operator Learning"
+  description: "A framework that learns to simulate molecular dynamics across multiple time resolutions using denoising diffusion models with SE(3) equivariant architecture. Published at NeurIPS 2023."
+  url: "https://github.com/olsson-group/ito"
+  tags: ["Python", "PyTorch", "Diffusion Models", "Molecular Dynamics"]
+
+- name: "NeuralNEB"
+  description: "Graph neural networks as surrogate potentials in the NEB algorithm to find reaction paths 1700× faster than DFT, with an average error of 0.13 eV. Published in IOPscience."
+  url: "https://github.com/matschreiner/NeuralNEB"
+  tags: ["Python", "GNNs", "Computational Chemistry", "DFT"]
+
+- name: "Transition1x"
+  description: "A dataset of ~10 million molecular configurations on and around reaction pathways for organic reactions, designed to train generalizable reactive ML potentials. Published in Scientific Data (Nature)."
+  url: "https://github.com/matschreiner/Transition1x"
+  tags: ["Python", "Dataset", "PyTorch", "Chemistry"]
+
+- name: "Pype"
+  description: "A framework and CLI for programmatically generating configuration files and running versioned pipelines for machine learning projects."
+  url: "https://github.com/matschreiner/pype"
+  tags: ["Python", "CLI", "MLOps"]

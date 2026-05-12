@@ -1,0 +1,23 @@
+<section id="publications" class="section section-publications">
+  <div class="container">
+    <h2 class="section-title">Publications</h2>
+    <ul class="publications-list">
+      {% for pub in site.data.publications %}
+      <li class="publication-item">
+        <div class="publication-title">
+          {% if pub.url != "" %}
+          <a href="{{ pub.url }}" target="_blank" rel="noopener">{{ pub.title }}</a>
+          {% else %}
+          {{ pub.title }}
+          {% endif %}
+        </div>
+        <div class="publication-authors">{{ pub.authors }}</div>
+        <div class="publication-meta">
+          <span class="publication-venue">{{ pub.venue }}</span>
+          <span class="publication-year">{{ pub.year }}</span>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

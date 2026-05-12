@@ -1,0 +1,47 @@
+- title: "Machine Learning for Molecular Science (PhD Thesis)"
+  authors: "M. Schreiner"
+  venue: "Technical University of Denmark (DTU)"
+  year: 2024
+  url: "https://orbit.dtu.dk/files/355328356/Thesis_Mathias_Schreiner_DTU.pdf"
+
+- title: "Transition1x — a Dataset for Building Generalizable Reactive Machine Learning Potentials"
+  authors: "M. Schreiner, A. Bhowmik, T. Vegge, J. Busk, O. Winther"
+  venue: "Scientific Data, Nature"
+  year: 2022
+  url: "https://www.nature.com/articles/s41597-022-01870-w"
+
+- title: "Implicit Transfer Operator Learning: Multiple Time-Resolution Models for Molecular Dynamics"
+  authors: "M. Schreiner, O. Winther, S. Olsson"
+  venue: "NeurIPS 2023"
+  year: 2023
+  url: "https://proceedings.neurips.cc/paper_files/paper/2023/hash/7274ed909a312d4d869cc328ad1c5f04-Abstract-Conference.html"
+
+- title: "NeuralNEB — Neural Networks can find Reaction Paths Fast"
+  authors: "M. Schreiner, A. Bhowmik, T. Vegge, P.B. Jørgensen, O. Winther"
+  venue: "Machine Learning: Science and Technology"
+  year: 2022
+  url: "https://iopscience.iop.org/article/10.1088/2632-2153/aca23e"
+
+- title: "Thermodynamic Interpolation: A Generative Approach to Molecular Thermodynamics and Kinetics"
+  authors: "S. Moqvist, W. Chen, M. Schreiner, F. Nüske, S. Olsson"
+  venue: "Journal of Chemical Theory and Computation"
+  year: 2025
+  url: "https://pubs.acs.org/doi/10.1021/acs.jctc.4c01557"
+
+- title: "Boltzmann Priors for Implicit Transfer Operators"
+  authors: "J.V. Diez, M. Schreiner, O. Engkvist, S. Olsson"
+  venue: "arXiv preprint"
+  year: 2024
+  url: "https://arxiv.org/abs/2412.01646"
+
+- title: "Transferable Generative Models Bridge Femtosecond to Nanosecond Time-Step Molecular Dynamics"
+  authors: "J.V. Diez, M. Schreiner, S. Olsson"
+  venue: "Science Advances"
+  year: 2026
+  url: "https://www.science.org/doi/10.1126/sciadv.aed2333"
+
+- title: "DANRA: The Kilometer-Scale Danish Regional Atmospheric Reanalysis"
+  authors: "X. Yang, C. Peralta, B. Amstrup, K.S. Hintz, S.B. Thorsen, L. Denby et al."
+  venue: "Earth System Science Data"
+  year: 2026
+  url: "https://essd.copernicus.org/articles/18/2251/2026/"
